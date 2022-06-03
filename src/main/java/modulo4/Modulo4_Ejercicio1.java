@@ -25,6 +25,8 @@ public class Modulo4_Ejercicio1 {
 			// TODO: handle exception
 			System.out.println("no se pueden multiplicar letras"+e.getMessage());
 		}
+		https://gitlab.com/gcasas1972/cursojava_mayo2022_codigo.git 
+		// codigo del profe 
 	 
 System.out.println("Fin del proceso");		
 	}
